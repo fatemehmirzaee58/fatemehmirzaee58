@@ -8,7 +8,7 @@ Now, in retirement, I’ve been learning Python for about 6 months. I’ve compl
 
 Building simple yet practical projects to apply what I’ve learned
 
-Focusing on automation and bots, such as my Telegram location finder bot
+Focusing on automation and bots
 
 🛠 Skills
 
