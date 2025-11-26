@@ -10,14 +10,6 @@ Building simple yet practical projects to apply what I’ve learned
 
 Focusing on automation and bots, such as my Telegram location finder bot
 
-🚀 My Projects
-
-Location Finder Bot
-A Telegram bot that takes your location and returns details such as country, state, city, and village using a free API.
-GitHub repo: location_finder_bot
-
-Telegram bot: @city_by_location_bot
-
 🛠 Skills
 
 Python (beginner → intermediate)
