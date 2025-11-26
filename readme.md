@@ -1,23 +1,53 @@
-Hi, I'm Fatemeh Mirzaee! 👋
+# 👋 Hi, I'm Fatemeh Mirzaee!
 
-I’m a retired person with a degree in Applied Mathematics, rediscovering my passion for programming. Although I was always fascinated by the computational side during my studies at the University of Tehran, my career took me away from it for over 20 years.
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Intermediate" />
+  <img src="https://img.shields.io/badge/GitHub-Active-green?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Active" />
+  <img src="https://img.shields.io/badge/Learning-Journey-Ongoing-orange?style=for-the-badge" alt="Learning Journey" />
+</div>
 
-Now, in retirement, I’ve been learning Python for about 6 months. I’ve completed beginner-level courses and am currently exploring more advanced topics. It’s been an exciting journey back into tech!
+---
 
-🌱 What I'm Working On
+## 📖 About Me
 
-Building simple yet practical projects to apply what I’ve learned
+I'm a retired professional with a **Bachelor's degree in Applied Mathematics** from the **University of Tehran**. During my studies, I was deeply fascinated by the computational aspects of math, but my career path led me away from programming for over 20 years.
 
-Focusing on automation and bots
+Now, in retirement, I'm rediscovering my passion for coding! I've been learning **Python** for about 6 months, starting from beginner courses and progressing to intermediate topics. This journey back into tech has been incredibly rewarding and energizing. I'm excited to build practical projects and contribute to the open-source community.
 
-🛠 Skills
+---
 
-Python (beginner → intermediate)
+## 🌱 What I'm Currently Working On
 
-Working with APIs using libraries like telebot and requests
+- **Building Practical Projects**: Creating simple, real-world applications to solidify my skills.
+- **Automation & Bots**: Developing tools for everyday automation, including Telegram bots using libraries like `telebot`.
+- **Exploring Advanced Topics**: Diving into APIs, databases, and version control to expand my toolkit.
 
-Working with databases using mysql.connector
+---
 
-Basic Git and GitHub
+## 🛠️ Skills & Tools
 
-I'm open to feedback, collaborations, or tips from fellow learners.
+| Category          | Details                                      |
+|-------------------|----------------------------------------------|
+| **Programming**   | Python (Beginner → Intermediate)             |
+| **APIs & Libraries** | `telebot`, `requests` for API integration   |
+| **Databases**     | `mysql.connector` for data management       |
+| **Version Control**| Basic Git & GitHub workflows                |
+
+I'm always eager to learn more—feel free to share resources or suggestions!
+
+---
+
+## 🤝 Let's Connect!
+
+I'm open to:
+- **Feedback** on my projects and code.
+- **Collaborations** with fellow learners or mentors.
+- **Tips & Advice** from experienced developers.
+
+You can find me on GitHub or reach out via email. Let's build something amazing together! 🚀
+
+---
+
+<div align="center">
+  <em>"The best way to predict the future is to create it." – Peter Drucker</em>
+</div>ی
