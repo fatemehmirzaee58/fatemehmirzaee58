@@ -48,4 +48,4 @@ You can find me on GitHub or reach out via email. Let's build something amazing 
 
 <div align="center">
   <em>"The best way to predict the future is to create it." – Peter Drucker</em>
-</div>ی
+</div>
