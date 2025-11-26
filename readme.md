@@ -2,8 +2,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Intermediate" />
-  <img src="https://img.shields.io/badge/GitHub-Active-green?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Active" />
-  <img src="https://img.shields.io/badge/Learning-Journey-Ongoing-orange?style=for-the-badge" alt="Learning Journey" />
 </div>
 
 ---
